@@ -1,4 +1,4 @@
-# ESP8266 kWh Meter
+# ESP8266 Power Monitoring
 
 This code allows you to measure power consumption (in kWh) using an ESP8266, a current transformer, and a voltage divider. The data is then sent to Adafruit MQTT server for further visualization or storage.
 
