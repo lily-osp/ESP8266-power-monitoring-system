@@ -1,5 +1,7 @@
 # ESP8266 power monitoring system
 
+[![CodeFactor](https://www.codefactor.io/repository/github/1999azzar/esp8266-power-monitoring-system/badge)](https://www.codefactor.io/repository/github/1999azzar/esp8266-power-monitoring-system)
+
 This repository contains code examples for monitoring power consumption using an ESP8266 board and an Arduino board. The code allows you to measure power consumption in kilowatt-hours (kWh) using a combination of current transformers (CT) and voltage dividers. The data can be sent to Adafruit IO MQTT service for further visualization or storage.
 
 ## Hardware Requirements
